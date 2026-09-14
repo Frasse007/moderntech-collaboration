@@ -80,6 +80,10 @@ This project is designed to practice professional development workflows includin
 
 This is a learning project for practicing collaborative development workflows. Follow the assignment instructions for contributing to this repository.
 
+## Test Section
+
+Adding this section to test and see the workflows on GitHub Actions
+
 ## License
 
 This project is for educational purposes.
